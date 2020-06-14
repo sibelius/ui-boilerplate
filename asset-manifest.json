@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/ui-boilerplate/static/js/main.51111ec5.chunk.js",
+    "main.js.map": "/ui-boilerplate/static/js/main.51111ec5.chunk.js.map",
+    "runtime-main.js": "/ui-boilerplate/static/js/runtime-main.e6d1fe6f.js",
+    "runtime-main.js.map": "/ui-boilerplate/static/js/runtime-main.e6d1fe6f.js.map",
+    "static/js/2.2746e8ac.chunk.js": "/ui-boilerplate/static/js/2.2746e8ac.chunk.js",
+    "static/js/2.2746e8ac.chunk.js.map": "/ui-boilerplate/static/js/2.2746e8ac.chunk.js.map",
+    "index.html": "/ui-boilerplate/index.html",
+    "precache-manifest.bad2ce81aba625d1bc4e3837b5fb28ca.js": "/ui-boilerplate/precache-manifest.bad2ce81aba625d1bc4e3837b5fb28ca.js",
+    "service-worker.js": "/ui-boilerplate/service-worker.js",
+    "static/js/2.2746e8ac.chunk.js.LICENSE.txt": "/ui-boilerplate/static/js/2.2746e8ac.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e6d1fe6f.js",
+    "static/js/2.2746e8ac.chunk.js",
+    "static/js/main.51111ec5.chunk.js"
+  ]
+}
