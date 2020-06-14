@@ -37,16 +37,20 @@
     "@types/styled-system": "5.1.5",
     "@types/testing-library__jest-dom": "^5.9.1",
     "@types/testing-library__react": "^10.0.1",
+    "gh-pages": "3.0.0",
     "react-scripts": "3.4.1",
     "typescript": "3.9.2"
   },
   "eslintConfig": {
     "extends": "react-app"
   },
+  "homepage": "http://sibelius.github.io/ui-boilerplate",
   "private": true,
   "scripts": {
     "build": "react-scripts build",
+    "deploy": "gh-pages -d build",
     "eject": "react-scripts eject",
+    "predeploy": "npm run build",
     "start": "react-scripts start",
     "test": "react-scripts test",
     "tsc": "yarn tsc"
