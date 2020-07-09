@@ -16,3 +16,7 @@ yarn start
 ## How to test responsive in many screens?
 
 Use [Responsively App](https://github.com/manojVivek/responsively-app)
+
+## How to convert SVG files to React Components?
+
+Use [Transform Tools](https://transform.tools/)

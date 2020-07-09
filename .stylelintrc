@@ -1,0 +1,31 @@
+{
+  "processors": ["stylelint-processor-styled-components"],
+  "extends": [
+    "stylelint-config-standard",
+    "stylelint-config-styled-components"
+  ],
+  "syntax": "scss",
+  "rules": {
+    "block-no-empty": null,
+    "declaration-block-no-redundant-longhand-properties": null,
+    "block-closing-brace-newline-before": null,
+    "indentation": null,
+    "color-hex-length": null,
+    "font-family-no-missing-generic-family-keyword": null,
+    "color-hex-case": "lower",
+    "property-no-unknown": [ true, {
+      "ignoreProperties": [
+        "padding-vertical",
+        "padding-horizontal",
+        "shadow-color",
+        "shadow-offset",
+        "shadow-radius",
+        "shadow-opacity",
+        "margin-horizontal",
+        "margin-vertical",
+        "aspect-ratio"
+      ]
+    }
+    ]
+  }
+}
